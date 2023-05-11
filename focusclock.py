@@ -1,7 +1,7 @@
 import time
 
 # 设置专注时间（单位为分钟）
-focus_time = 25
+focus_time = 30
 
 # 将分钟转换为秒
 timer_seconds = focus_time * 60
