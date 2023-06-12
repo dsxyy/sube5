@@ -4,7 +4,7 @@ import time
 focus_time = 30
 
 # 将分钟转换为秒
-timer_seconds = focus_time * 60
+timer_seconds = focus_time * 600
 
 # 计时器循环
 while timer_seconds:
